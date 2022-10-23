@@ -1,0 +1,16 @@
+┌──(vagrant㉿kali)-[~]
+└─$ history
+    1  sudo adduser weissman
+    2  sudo adduser upper
+    3  sudo adduser lower
+    4  sudo adduser mixed
+    5  sudo adduser story
+    6  man unshadow
+    7  sudo unshadow
+    8  cat /etc/passwd
+    9  sudo cat /etc/shadow
+   10  nano rochester
+   11  cat rochester
+   12  sudo john --wordlist=/usr/share/john/password.lst --format=crypt rochester
+   13  sudo john --show --format=crypt rochester
+   14  sudo rm /root/.john/john.pot
