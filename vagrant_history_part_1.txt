@@ -1,0 +1,16 @@
+┌──(vagrant㉿kali)-[~]
+└─$ history
+    1  ls -R | more
+    2  ls -r | less
+    3  clear
+    4  find / -name ping 2>&1 | grep -v "Permission denied"
+    5  man find
+    6  cd
+    7  vim months
+    8  head months
+    9  head -7 months
+   10  head -n -3 months
+   11  tail months
+   12  tail -n 3 months
+   13  tail +3 months
+   14  tail -n +3 months
